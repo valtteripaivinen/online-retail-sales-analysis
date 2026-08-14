@@ -133,6 +133,8 @@ Possible future improvements:
 - Connect sales data with marketing campaign data
 - Add customer lifetime value analysis
 
+📄 [View the complete project overview (PDF)](Online_Retail_Sales_Analysis_Project_Overview.pdf)
+
 ## Project Summary
 
 This project shows how online retail transaction data can be used to analyze sales performance, customer value, product performance and country-level business opportunities. The workflow combines data engineering, SQL analysis, dashboard reporting and business interpretation.
